@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/report-brighteon/static/css/main.076d43ad.css",
-    "main.js": "/report-brighteon/static/js/main.51e4611a.js",
+    "main.css": "/report-brighteon/static/css/main.973f2014.css",
+    "main.js": "/report-brighteon/static/js/main.2770ff1c.js",
     "static/js/787.cda02795.chunk.js": "/report-brighteon/static/js/787.cda02795.chunk.js",
     "index.html": "/report-brighteon/index.html",
-    "main.076d43ad.css.map": "/report-brighteon/static/css/main.076d43ad.css.map",
-    "main.51e4611a.js.map": "/report-brighteon/static/js/main.51e4611a.js.map",
+    "main.973f2014.css.map": "/report-brighteon/static/css/main.973f2014.css.map",
+    "main.2770ff1c.js.map": "/report-brighteon/static/js/main.2770ff1c.js.map",
     "787.cda02795.chunk.js.map": "/report-brighteon/static/js/787.cda02795.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.076d43ad.css",
-    "static/js/main.51e4611a.js"
+    "static/css/main.973f2014.css",
+    "static/js/main.2770ff1c.js"
   ]
 }
