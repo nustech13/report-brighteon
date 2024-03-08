@@ -1,0 +1,53 @@
+.AddItem {
+    position: fixed;
+    top: 30px;
+    left: 50%;
+    transform: translateX(-50%);    
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border: 1px solid #111;
+    background-color: #242529;
+    padding: 40px 20px 20px 20px;
+    border-radius: 5px;
+    gap: 10px;
+    z-index: 101;
+}
+
+.AddItemField {
+    display: flex;
+    gap: 20px;
+}
+
+.AddItemField .Title {
+    min-width: 65px;
+    color: #FFFFFF;
+    font-weight: 600;
+}
+
+.AddItemField input {
+    border-radius: 3px;
+    border: none;
+    height: 20px;
+    padding: 5px;
+    font-weight: 600;
+}
+
+.AddItemField input:focus {
+    outline: none;
+}
+
+.AddButtons {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    gap: 5px;
+}
+
+.AddButtons button {
+    min-width: 60px
+}
+
+.Cancel {
+    background-color: #424345;
+}

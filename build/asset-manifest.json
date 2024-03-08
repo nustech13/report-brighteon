@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/report-brighteon/static/css/main.973f2014.css",
-    "main.js": "/report-brighteon/static/js/main.7f2c5307.js",
-    "static/js/787.cda02795.chunk.js": "/report-brighteon/static/js/787.cda02795.chunk.js",
-    "index.html": "/report-brighteon/index.html",
-    "main.973f2014.css.map": "/report-brighteon/static/css/main.973f2014.css.map",
-    "main.7f2c5307.js.map": "/report-brighteon/static/js/main.7f2c5307.js.map",
-    "787.cda02795.chunk.js.map": "/report-brighteon/static/js/787.cda02795.chunk.js.map"
+    "main.css": "/share-money/static/css/main.9a777be2.css",
+    "main.js": "/share-money/static/js/main.d60f511c.js",
+    "static/js/787.0268abd4.chunk.js": "/share-money/static/js/787.0268abd4.chunk.js",
+    "index.html": "/share-money/index.html",
+    "main.9a777be2.css.map": "/share-money/static/css/main.9a777be2.css.map",
+    "main.d60f511c.js.map": "/share-money/static/js/main.d60f511c.js.map",
+    "787.0268abd4.chunk.js.map": "/share-money/static/js/787.0268abd4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.973f2014.css",
-    "static/js/main.7f2c5307.js"
+    "static/css/main.9a777be2.css",
+    "static/js/main.d60f511c.js"
   ]
 }

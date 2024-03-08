@@ -1,0 +1,38 @@
+.Card {
+    background-color: #242529;
+    margin: 5px 0;
+    width: 270px;
+    padding: 20px;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-weight: 500;
+    position: relative;
+    min-height: 250px;
+}
+
+.CardHeader {
+    padding: 5px 0;
+    margin-bottom: 5px;
+    border-bottom: 1px solid #FFFFFF;
+}
+
+.CardButtons {
+    margin-top: 10px;
+    display: flex;
+    gap: 5px;
+}
+
+.CardButtons button {
+    min-width: 60px;
+}
+
+.CardDone {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    background-image: url(/public/done-icon.png);
+    background-repeat: no-repeat;
+    top: 10px;
+    right: 10px;
+    background-size: 32px;
+}
